@@ -1,2 +1,6 @@
 # projeto_hor
-Sei lá prr
+
+Projeto feito por:
+- Heitor
+- Raul
+- Otávio
